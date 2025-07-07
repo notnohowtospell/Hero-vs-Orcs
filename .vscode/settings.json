@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "hvo.sln"
+    "dotnet.defaultSolution": "Hero vs Orcs.sln"
 }
